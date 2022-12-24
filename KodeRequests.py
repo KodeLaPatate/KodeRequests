@@ -42,19 +42,19 @@ if password == "KodeBg":
 	discord = pyfiglet.figlet_format("DiscordRequests")
 
 	print(Fore.RED + discord)
-	print(Fore.RED + "┍━━━━━━━━━━━━━━━━━━━━━━┑")
-	print("\x1b[31m│    [1] \x1b[91mFollowsBot    \x1b[31m│")
-	print("\x1b[31m│    [2] \x1b[91mSpamsBot*     \x1b[31m│")
-	print("\x1b[31m│    [3] \x1b[91mTrollsBot*    \x1b[31m│")
-	print("\x1b[31m│    [4] \x1b[91mRaidsBot*     \x1b[31m│")
-	print("\x1b[31m│     \x1b[91m* = Premium      \x1b[31m│")
-	print(Fore.RED + "┕━━━━━━━━━━━━━━━━━━━━━━┙")
+	print(Fore.RED + "┍━━━━━━━━━━━━━━━━━━━━━━━┑")
+	print("\x1b[31m│     [1] \x1b[91mFollowsBot    \x1b[31m│")
+	print("\x1b[31m│     [2] \x1b[91mSpamsBot*     \x1b[31m│")
+	print("\x1b[31m│     [3] \x1b[91mTrollsBot*    \x1b[31m│")
+	print("\x1b[31m│     [4] \x1b[91mRaidsBot*     \x1b[31m│")
+	print("\x1b[31m│     [5] \x1b[91mViewsBot*     \x1b[31m│")
+	print("\x1b[31m│ \x1b[91m* = Must have premium \x1b[31m│")
+	print(Fore.RED + "┕━━━━━━━━━━━━━━━━━━━━━━━┙")
 	print(" ")
 
 	fod = input(Fore.RED + "│ Choose from these choices? " + "\x1b[91m")
 
 	if fod == "1":
-
 		os.system('cls' if os.name == 'nt' else 'clear')
 
 		req = pyfiglet.figlet_format("OnFollows")
@@ -152,7 +152,7 @@ if password == "KodeBg":
 		print("\x1b[33m┍━━━━━━━━━━━━━━━━━┑")
 
 		while True:
-			count2 += 1
+			count3 += 1
 			print(f"\x1b[33m┝ \x1b[93m{count3} requests send \x1b[33m┥")
 			r = requests.post("https://discord.com/api/v9/channels/1041756912431153278/messages", data=payload, headers=header)
 			time.sleep(15)
@@ -179,7 +179,7 @@ if password == "KodeBg":
 		'authorization': token
 		}
 
-		count2 = 0
+		count4 = 0
 
 		print("\x1b[34m┍━━━━━━━━━━━━━━━━━┑")
 
@@ -190,7 +190,39 @@ if password == "KodeBg":
 			time.sleep(15)
 
 	else:
-		print(Fore.Red + error)
+		print(Fore.RED + error)
+
+	if fod == "5":
+		os.system('cls' if os.name == 'nt' else 'clear')
+
+		view = pyfiglet.figlet_format("OnViews")
+
+		print(Fore.CYAN + view)
+		print("\x1b[36m│ One request = 100 - 500 Viewers")
+		print("\x1b[96m─────────────────────────────────")
+		print(f"\x1b[36m│ You are raiding {name}")
+		print(" ")
+
+		payload = {
+		'content': "!view " + name
+		}
+
+		header = {
+		'authorization': token
+		}
+
+		count4 = 0
+
+		print("\x1b[36m┍━━━━━━━━━━━━━━━━━┑")
+
+		while True:
+			count4 += 1
+			print(f"\x1b[36m┝ \x1b[96m{count4} requests send \x1b[36m┥")
+			r = requests.post("https://discord.com/api/v9/channels/1048661590817394808/messages", data=payload, headers=header)
+			time.sleep(10)
+
+	else:
+		print(Fore.RED + error)
 
 else:
 
