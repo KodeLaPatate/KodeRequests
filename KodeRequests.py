@@ -5,18 +5,12 @@ import colorama
 import os
 from colorama import Back, Fore, Style
 
-colorama.init(autoreset=True)
-
 error = pyfiglet.figlet_format("Error")
 
 re = 3
 
 pas = pyfiglet.figlet_format("PassKode")
 txt = pyfiglet.figlet_format("KodeRequests")
-
-print(Fore.MAGENTA + pas)
-
-password = input("\x1b[35m│ \x1b[95mWhat is the password? " + Fore.MAGENTA)
 
 os.system('cls' if os.name == 'nt' else 'clear')
 
@@ -28,6 +22,12 @@ print(Fore.RED + "┕━━━━━━━━━━━━━━━━━━━�
 print(" ")
 
 token = input("\x1b[31m│ \x1b[91mPlease enter your token? \x1b[31m")
+
+os.system('cls' if os.name == 'nt' else 'clear')
+
+print(Fore.MAGENTA + pas)
+
+password = input("\x1b[35m│ \x1b[95mWhat is the password? " + Fore.MAGENTA)
 
 os.system('cls' if os.name == 'nt' else 'clear')
 
