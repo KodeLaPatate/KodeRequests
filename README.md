@@ -6,4 +6,4 @@
   - colorama
   - os
 
-🍏 Now I let you discover the application.
+🍏 Now I let you discover the application everything is registered there.
