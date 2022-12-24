@@ -41,13 +41,13 @@ if password == "KodeBg":
 
 	discord = pyfiglet.figlet_format("DiscordRequests")
 
-
 	print(Fore.RED + discord)
 	print(Fore.RED + "┍━━━━━━━━━━━━━━━━━━━━━━┑")
 	print("\x1b[31m│    [1] \x1b[91mFollowsBot    \x1b[31m│")
-	print("\x1b[31m│    [2] \x1b[91mSpamsBot      \x1b[31m│")
-	print("\x1b[31m│    [3] \x1b[91mTrollsBot     \x1b[31m│")
-	print("\x1b[31m│    [4] \x1b[91mRaidsBot      \x1b[31m│")
+	print("\x1b[31m│    [2] \x1b[91mSpamsBot*     \x1b[31m│")
+	print("\x1b[31m│    [3] \x1b[91mTrollsBot*    \x1b[31m│")
+	print("\x1b[31m│    [4] \x1b[91mRaidsBot*     \x1b[31m│")
+	print("\x1b[31m│     \x1b[91m* = Premium      \x1b[31m│")
 	print(Fore.RED + "┕━━━━━━━━━━━━━━━━━━━━━━┙")
 	print(" ")
 
