@@ -7,5 +7,6 @@
   - time
   - colorama
   - os
+  - pyfiglet
 
 🍏 Now I let you discover the application everything is registered there.
