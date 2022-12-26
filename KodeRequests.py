@@ -257,6 +257,10 @@ if password == "KodeBg":
 		os.system('cls' if os.name == 'nt' else 'clear')
 
 		print(Fore.CYAN + kah)
+		print("\x1b[36m│ One request = 25 Joins")
+		print("\x1b[96m─────────────────────────────")
+		print(f"\x1b[36m│ You are the room {oks}")
+		print(" ")
 
 		payload = {
 		'content': "/kraid " + oks
