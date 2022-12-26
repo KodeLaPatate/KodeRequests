@@ -37,9 +37,9 @@ Put your token in the token.txt file.
 
 ## 📽️ Tutorial and Test
 
-<a href="https://www.youtube.com/watch?v=fC2KgnYoETw">
-<a href="https://www.youtube.com/watch?v=fC2KgnYoETw](https://www.youtube.com/watch?v=jKFVeDm5028">
-  <img align="center" src="https://raw.githubusercontent.com/masterking32/twitch-account-creator/main/hqdefault.jpg" alt="Youtube Video" />
+<a href="https://www.youtube.com/watch?v=jKFVeDm5028">
+<a href="https://www.youtube.com/watch?v=jKFVeDm5028](https://www.youtube.com/watch?v=jKFVeDm5028">
+  <img align="center" src="https://i.ytimg.com/vi/jKFVeDm5028/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCv4UCMhgOOUxCUzM5-jSN-QP_MA" alt="Youtube Video" />
 </a>
 
 
@@ -56,4 +56,4 @@ You can go to [1SecMail.Com](https://www.1secmail.com), put your account email t
 
 ## Programmers
 
-Author : [Amin.MasterkinG](https://masterking32.com) | [Github](https://github.com/masterking32)
+Author : [Amin.MasterkinG](https://kodelapatate.com) | [Github](https://github.com/kodelapatate)
