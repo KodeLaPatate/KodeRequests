@@ -47,12 +47,7 @@ Put your token in the token.txt file.
 **[Youtube Video](https://www.youtube.com/watch?v=fC2KgnYoETw](https://www.youtube.com/watch?v=jKFVeDm5028)**
 
 ---
-
-We will store account details in `./results/results.txt`.
-
-If you need to verify your email for login or etc.
-
-You can go to [1SecMail.Com](https://www.1secmail.com), put your account email there, and check the received emails.
+  
 
 ## Programmers
 
