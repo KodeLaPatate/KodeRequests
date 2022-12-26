@@ -92,11 +92,9 @@ if password == "KodeBg":
 
 			count1 = 0
 
-			print("\x1b[32m┍━━━━━━━━━━━━━━━━━┑")
-
 			while True:
 				count1 += 1
-				print(f"\x1b[32m┝ \x1b[92m{count1} requests send \x1b[32m┥")
+				print(f"\x1b[32mSent \x1b[92m{count1} \x1b[32mrequests")
 				r = requests.post("https://discord.com/api/v9/channels/1041756912431153278/messages", data=payload, headers=header)
 				time.sleep(15)
 		else:
@@ -133,11 +131,9 @@ if password == "KodeBg":
 
 			count2 = 0
 
-			print("\x1b[35m┍━━━━━━━━━━━━━━━━━┑")
-
 			while True:
 				count2 += 1
-				print(f"\x1b[35m┝ \x1b[95m{count2} requests send \x1b[35m┥")
+				print(f"\x1b[35mSent \x1b[95m{count1} \x1b[35mrequests")
 				r = requests.post("https://discord.com/api/v9/channels/1041756912431153278/messages", data=payload, headers=header)
 				time.sleep(15)
 
@@ -166,11 +162,9 @@ if password == "KodeBg":
 
 			count3 = 0
 
-			print("\x1b[33m┍━━━━━━━━━━━━━━━━━┑")
-
 			while True:
 				count3 += 1
-				print(f"\x1b[33m┝ \x1b[93m{count3} requests send \x1b[33m┥")
+				print(f"\x1b[33mSent \x1b[93m{count1} \x1b[33mrequests")
 				r = requests.post("https://discord.com/api/v9/channels/1041756912431153278/messages", data=payload, headers=header)
 				time.sleep(15)
 
@@ -198,11 +192,9 @@ if password == "KodeBg":
 
 			count4 = 0
 
-			print("\x1b[34m┍━━━━━━━━━━━━━━━━━┑")
-
 			while True:
 				count4 += 1
-				print(f"\x1b[34m┝ \x1b[94m{count4} requests send \x1b[34m┥")
+				print(f"\x1b[34mSent \x1b[94m{count1} \x1b[34mrequests")
 				r = requests.post("https://discord.com/api/v9/channels/1041756912431153278/messages", data=payload, headers=header)
 				time.sleep(15)
 
@@ -230,11 +222,9 @@ if password == "KodeBg":
 
 			count5 = 0
 
-			print("\x1b[36m┍━━━━━━━━━━━━━━━━━┑")
-
 			while True:
 				count5 += 1
-				print(f"\x1b[36m┝ \x1b[96m{count5} requests send \x1b[36m┥")
+				print(f"\x1b[36mSent \x1b[96m{count1} \x1b[36mrequests")
 				r = requests.post("https://discord.com/api/v9/channels/1048661590817394808/messages", data=payload, headers=header)
 				time.sleep(10)
 
@@ -272,11 +262,9 @@ if password == "KodeBg":
 
 		count5 = 0
 
-		print("\x1b[34m┍━━━━━━━━━━━━━━━━━┑")
-
 		while True:
 			count5 += 1
-			print(f"\x1b[36m┝ \x1b[96m{count5} requests send \x1b[36m┥")
+			print(f"\x1b[36mSent \x1b[96m{count1} \x1b[36mrequests")
 			r = requests.post("https://discord.com/api/v9/channels/1046183217755074580/messages", data=payload, headers=header)
 			time.sleep(120)
 
