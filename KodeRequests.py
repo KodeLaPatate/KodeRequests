@@ -94,7 +94,7 @@ if password == "KodeBg":
 
 			while True:
 				count1 += 1
-				print(f"\x1b[32mSent \x1b[92m{count1} \x1b[32mrequests")
+				print(f"\x1b[32mSent \x1b[92m{count1} \x1b[32mrequests to {name}")
 				r = requests.post("https://discord.com/api/v9/channels/1041756912431153278/messages", data=payload, headers=header)
 				time.sleep(15)
 		else:
@@ -133,7 +133,7 @@ if password == "KodeBg":
 
 			while True:
 				count2 += 1
-				print(f"\x1b[35mSent \x1b[95m{count1} \x1b[35mrequests")
+				print(f"\x1b[35mSent \x1b[95m{count1} \x1b[35mrequests to {name}")
 				r = requests.post("https://discord.com/api/v9/channels/1041756912431153278/messages", data=payload, headers=header)
 				time.sleep(15)
 
@@ -164,7 +164,7 @@ if password == "KodeBg":
 
 			while True:
 				count3 += 1
-				print(f"\x1b[33mSent \x1b[93m{count1} \x1b[33mrequests")
+				print(f"\x1b[33mSent \x1b[93m{count1} \x1b[33mrequests to {name}")
 				r = requests.post("https://discord.com/api/v9/channels/1041756912431153278/messages", data=payload, headers=header)
 				time.sleep(15)
 
@@ -194,7 +194,7 @@ if password == "KodeBg":
 
 			while True:
 				count4 += 1
-				print(f"\x1b[34mSent \x1b[94m{count1} \x1b[34mrequests")
+				print(f"\x1b[34mSent \x1b[94m{count1} \x1b[34mrequests to {name}")
 				r = requests.post("https://discord.com/api/v9/channels/1041756912431153278/messages", data=payload, headers=header)
 				time.sleep(15)
 
@@ -224,7 +224,7 @@ if password == "KodeBg":
 
 			while True:
 				count5 += 1
-				print(f"\x1b[36mSent \x1b[96m{count1} \x1b[36mrequests")
+				print(f"\x1b[36mSent \x1b[96m{count1} \x1b[36mrequests to {name}")
 				r = requests.post("https://discord.com/api/v9/channels/1048661590817394808/messages", data=payload, headers=header)
 				time.sleep(10)
 
@@ -242,18 +242,18 @@ if password == "KodeBg":
 
 		print(Fore.CYAN + kah)
 
-		oks = input("\x1b[36m│ \x1b[96mPlease enter RoomId? \x1b[36m")
+		room = input("\x1b[36m│ \x1b[96mPlease enter RoomId? \x1b[36m")
 
 		os.system('cls' if os.name == 'nt' else 'clear')
 
 		print(Fore.CYAN + kah)
 		print("\x1b[36m│ One request = 25 Joins")
 		print("\x1b[96m─────────────────────────────")
-		print(f"\x1b[36m│ You are the room {oks}")
+		print(f"\x1b[36m│ You are the room {room}")
 		print(" ")
 
 		payload = {
-		'content': "/kraid " + oks
+		'content': "/kraid " + room
 		}
 
 		header = {
@@ -264,7 +264,7 @@ if password == "KodeBg":
 
 		while True:
 			count5 += 1
-			print(f"\x1b[36mSent \x1b[96m{count1} \x1b[36mrequests")
+			print(f"\x1b[36mSent \x1b[96m{count1} \x1b[36mrequests to {room}")
 			r = requests.post("https://discord.com/api/v9/channels/1046183217755074580/messages", data=payload, headers=header)
 			time.sleep(120)
 
