@@ -33,8 +33,7 @@ Put your token in the token.txt file.
 
 ## 📽️ Tutorial and Test
 
-<a href="https://www.youtube.com/watch?v=ogEkGDHTq_U">
-<a href="https://www.youtube.com/watch?v=ogEkGDHTq_U">
+<a href="https://youtu.be/ogEkGDHTq_U">
   <img align="center" src="https://i.ytimg.com/vi/jKFVeDm5028/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCv4UCMhgOOUxCUzM5-jSN-QP_MA" alt="Youtube Video" />
 </a>
 
