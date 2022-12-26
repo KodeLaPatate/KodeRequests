@@ -15,10 +15,6 @@
 
 **⭐ If you liked the project, feel free to give it a shining star. ⭐**
 
-@@ -21,68 +21,35 @@
-  </a>
-</p>
-
 ## 💻 Installation
 
 ### 🟣 Setup:
