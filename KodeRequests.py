@@ -254,6 +254,10 @@ if password == "KodeBg":
 
 		oks = input("\x1b[36m│ \x1b[96mPlease enter RoomId? \x1b[36m")
 
+		os.system('cls' if os.name == 'nt' else 'clear')
+
+		print(Fore.CYAN + kah)
+
 		payload = {
 		'content': "/kraid " + oks
 		}
@@ -263,8 +267,6 @@ if password == "KodeBg":
 		}
 
 		count5 = 0
-
-		print(" ")
 
 		print("\x1b[34m┍━━━━━━━━━━━━━━━━━┑")
 
