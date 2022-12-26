@@ -56,4 +56,4 @@ You can go to [1SecMail.Com](https://www.1secmail.com), put your account email t
 
 ## Programmers
 
-Author : [Amin.MasterkinG](https://kodelapatate.com) | [Github](https://github.com/kodelapatate)
+Author : [Amin.KodeLaPatate](https://kodelapatate.com) | [Github](https://github.com/kodelapatate)
