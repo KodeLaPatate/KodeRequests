@@ -47,4 +47,4 @@ Put your token in the token.txt file.
 
 ## Programmers
 
-Author : [KodeLaPatate](https://kodelapatate.com) | [Github](https://github.com/kodelapatate)
+Author : [KodeLaPatate](https://kodelapatate.com) | [Github](https://github.com/kodelapatate) | [Discord](https://discord.gg/awPTwBNupR)
