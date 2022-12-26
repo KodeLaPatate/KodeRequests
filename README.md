@@ -1,4 +1,4 @@
-💾 Open the Install folder.
+💾Open the "Install.bat" to download the modules.
 
 ⭐️ You need to join this discord server: discord.gg/tw1tchfollower
 
