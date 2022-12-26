@@ -2,7 +2,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/KodeLaPatate/KodeRequests.svg)](https://github.com/KodeLaPatate/KodeRequests/issues)
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
-# A NodeJS Bot to create Twitch accounts.
 # A Python bot to send all types of requests.
 
 # ✔️✔️✔️ This repo is deprecated for now. ✔️✔️✔️
