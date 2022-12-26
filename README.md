@@ -1,4 +1,4 @@
-[![GitHub issues](https://img.shields.io/github/issues/masterking32/twitch-account-creator.svg)](https://github.com/kodelapatate/KodeRequest/issues)
+[![GitHub issues](https://img.shields.io/github/issues/kodelapatate/<KodeRequests.svg)](https://github.com/kodelapatate/KodeRequest/issues)
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
 # A NodeJS Bot to create Twitch accounts.
