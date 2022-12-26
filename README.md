@@ -9,6 +9,6 @@
 
 🍏 Now I let you discover the application everything is registered there.
 
-💎 
+
 
 ⭐ If you liked the project, feel free to give it a shining star. ⭐
