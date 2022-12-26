@@ -1,6 +1,5 @@
-A Python Bot to send requests.
-
 🐍 The program is 100% created in python 🐍
+
 
 💾Open the "Install.bat" to download the modules.
 
