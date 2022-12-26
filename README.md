@@ -6,7 +6,6 @@
 
 # ✔️✔️✔️ This repo is deprecated for now. ✔️✔️✔️
 
-✔️ This project will create new accounts and verify the accounts using the email address. ✔️
 ✔️ You could also use it to spam room kahoot ✔️
 
 ✔️ Twitch follow bot added. (08/21/2022) ✔️
